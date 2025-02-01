@@ -1,6 +1,8 @@
 # LK 1
 ## Membuat Program Lalu Lintas
 
+> tes
+
 ### Lampu Lalu Lintas I
 #### Kondisi jalan sama ramai sehingga jalan MT. Haryono jalan Ahmad Yani lamanya waktu untuk lampu merah, kuning, hijau menyala sama.
 
