@@ -2,9 +2,9 @@
 
 # Simulasi Lampu Lalu Lintas Menggunakan Arduino 🚦
 
-<center>
+<p align="center">
 <img src="readme.gif" alt="gif" width="400" />
-</center>
+</p>
 
 Repository ini berisi proyek Arduino untuk mensimulasikan sistem lampu lalu lintas menggunakan Arduino Uno, LED, dan breadboard. Proyek ini dirancang untuk membantu Anda memahami dasar-dasar pemrograman Arduino dan elektronika. 🛠️
 
